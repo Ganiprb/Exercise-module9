@@ -1,0 +1,10 @@
+1. handling values null
+	- Untuk person_emp_length dan loan_int_rate
+	  karena pada data training memilik null maka untuk data input akan dimasukkan ke dalam ketegori binning sendiri meggunakan WOE
+	- Untuk kolo numeric lainnya
+	  akan direplace dengan 0
+
+2. Outlier handling dilakukan dengan binning WOE 
+
+additional notes:
+Mas maaf saya sudah terlanjur untuk convert jadi script karena lebih mudah runningnya
