@@ -4,8 +4,11 @@
 # # Analysis Chalenge
 
 # ## Import Module
+"""
+NOTE:
+Mas maaf untuk notebook dr awal saya sudah terlanjur untuk convert jadi script karena lebih mudah runningnya
 
-# In[166]:
+"""
 
 
 import numpy as np
